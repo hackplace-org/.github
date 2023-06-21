@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="../dark_logo.svg">
-  <source media="(prefers-color-scheme: light)" srcset="../light_logo.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hackplace-org/.github/main/dark_logo.svg>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hackplace-org/.github/main/light_logo.svg">
   <img alt="hack.place() Logo" src="../dark_logo.svg">
 </picture>
 
