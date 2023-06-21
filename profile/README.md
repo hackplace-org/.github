@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hackplace-org/.github/main/dark_logo.svg>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hackplace-org/.github/main/light_logo.svg">
-  <img alt="hack.place() Logo" src="../dark_logo.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hackplace-org/.github/main/dark_logo.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hackplace-org/.github/main/light_logo.svg" />
+  <img alt="hack.place() Logo" src="../dark_logo.svg" />
 </picture>
 
 This is the organization for [hack.place()](https://www.hackplace.org). We run programming workshops and hackathons for students within Monmouth County, NJ!
