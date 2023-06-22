@@ -18,3 +18,4 @@ All of the code used by hack.place() is open-sourced here. Feel free to browse o
 - [Our workshop presentation slides](https://github.com/hackplace-org/presentations)
 - The code for our workshops themselves:
   - [Intro to HTML/CSS/JS](https://github.com/hackplace-org/weather-app)
+  - [Intro to React](https://github.com/hackplace-org/cookie-clicker)
