@@ -9,6 +9,12 @@ This is the organization for [hack.place()](https://www.hackplace.org). We run p
 <a href="https://discord.com/invite/YTZdFWgR6V">
   <img alt="Join our Discord!" src="https://img.shields.io/badge/join%20our%20discord!-5865f2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
+<a href="https://www.linkedin.com/company/hack-place/">
+  <img alt="Connect with us!" src="https://img.shields.io/badge/connect%20with%20us!-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/hack.place0/">
+  <img alt="Follow our profile!" src="https://img.shields.io/badge/follow our profile!-e4405f?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 # What's in this organization?
 
