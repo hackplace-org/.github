@@ -4,8 +4,6 @@
   <img alt="hack.place() Logo" src="../dark_logo.svg" />
 </picture>
 
-This is the organization for [hack.place()](https://www.hackplace.org). We run programming workshops and hackathons for students within Monmouth County, NJ!
-
 <a href="https://discord.com/invite/YTZdFWgR6V">
   <img alt="Join our Discord!" src="https://img.shields.io/badge/join%20our%20discord!-5865f2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
