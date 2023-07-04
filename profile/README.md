@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/company/hack-place/">
     <img alt="Connect with us!" src="https://img.shields.io/badge/connect%20with%20us!-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/hack.place0/">
+  <a href="https://www.instagram.com/hackplace_org/">
     <img alt="Follow our profile!" src="https://img.shields.io/badge/follow our profile!-e4405f?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
