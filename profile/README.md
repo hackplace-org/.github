@@ -8,6 +8,9 @@
   <a href="https://discord.com/invite/YTZdFWgR6V">
     <img alt="Join our Discord!" src="https://img.shields.io/badge/join%20our%20discord!-5865f2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
+  <a href="https://opencollective.com/hackplace">
+    <img alt="Sponsor our project!" src="https://img.shields.io/badge/Sponsor%20our%20project!-84AEF3?style=for-the-badge&logo=opencollective&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/company/hack-place/">
     <img alt="Connect with us!" src="https://img.shields.io/badge/connect%20with%20us!-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
