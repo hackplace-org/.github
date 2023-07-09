@@ -1,7 +1,7 @@
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hackplace-org/.github/main/dark_logo.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hackplace-org/.github/main/light_logo.svg" />
-  <img alt="hack.place() Logo" src="../dark_logo.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="../light-logo.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="../dark-logo.svg" />
+  <img alt="hack.place() Logo" src="../light-logo.svg" />
 </picture>
 
 <div align="center">
@@ -28,3 +28,9 @@ All of the code used by hack.place() is open-sourced here. Feel free to browse o
 - The code for our workshops themselves:
   - [Intro to HTML/CSS/JS](https://github.com/hackplace-org/weather-app)
   - [Intro to React](https://github.com/hackplace-org/cookie-clicker)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../hcb-logo-original-light.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="../hcb-logo-original-dark.svg" />
+  <img alt="hack.place() Logo" src="../hcb-logo-original-light.svg" />
+</picture>
