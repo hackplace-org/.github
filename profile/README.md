@@ -1,6 +1,6 @@
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="../light-logo.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="../dark-logo.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hackplace-org/.github/main/light-logo.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hackplace-org/.github/main/dark-logo.svg" />
   <img alt="hack.place() Logo" src="../light-logo.svg" />
 </picture>
 
@@ -30,7 +30,7 @@ All of the code used by hack.place() is open-sourced here. Feel free to browse o
   - [Intro to React](https://github.com/hackplace-org/cookie-clicker)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="../hcb-logo-original-light.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="../hcb-logo-original-dark.svg" />
-  <img alt="hack.place() Logo" src="../hcb-logo-original-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hackplace-org/.github/main/hcb-logo-original-light.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hackplace-org/.github/main/hcb-logo-original-dark.svg" />
+  <img alt="Hack Club Bank Logo" src="../hcb-logo-original-light.svg" />
 </picture>
