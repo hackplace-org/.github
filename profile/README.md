@@ -24,10 +24,12 @@
 All of the code used by hack.place() is open-sourced here. Feel free to browse our repositories:
 
 - [Our website, hackplace.org](https://github.com/hackplace-org/hackplace.org)
-- [Our workshop presentation slides](https://github.com/hackplace-org/presentations)
-- The code for our workshops themselves:
+- [Our presentation slides](https://github.com/hackplace-org/presentations)
+- The code for our workshops:
   - [Intro to HTML/CSS/JS](https://github.com/hackplace-org/weather-app)
-  - [Intro to React](https://github.com/hackplace-org/cookie-clicker)
+- The code for our lessons:
+  - [HTMX and APIs](https://github.com/hackplace-org/clicker-api)
+  - [Databases with ORMs](https://github.com/hackplace-org/guestbook)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hackplace-org/.github/main/hcb-logo-original-light.svg" />
