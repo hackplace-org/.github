@@ -27,6 +27,7 @@ All of the code used by hack.place() is open-sourced here. Feel free to browse o
 - [Our presentation slides](https://github.com/hackplace-org/presentations)
 - The code for our workshops:
   - [Intro to HTML/CSS/JS](https://github.com/hackplace-org/weather-app)
+  - [Object-Oriented Python](https://github.com/hackplace-org/discord-bot)
 - The code for our lessons:
   - [HTMX and APIs](https://github.com/hackplace-org/clicker-api)
   - [Databases with ORMs](https://github.com/hackplace-org/guestbook)
