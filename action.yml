@@ -24,7 +24,7 @@ jobs:
         run: yes | cargo-binstall gitoxide
 
       - name: Estimate hours
-        run: echo $(ein tool estimate-hours) > .dev_hours
+        run: echo "$(ein tool estimate-hours)" > .dev_hours
 
       - name: Add log file
         run: |
