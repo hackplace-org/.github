@@ -1,7 +1,7 @@
 name: Estimate hours
 on:
   push:
-    branches: [ $default-branch ]
+    branches: ["main"]
   workflow_dispatch:
 
 env:
@@ -38,7 +38,7 @@ jobs:
 
       - name: Open pull request
         run: gh pr create >-
-          --head $default-branch
+          --head "main"
           --no-maintainer-edit
           --assignee ${{ github.actor }}
           --title "(${{ github.run_attempt }}) Estimate potential development hours"
