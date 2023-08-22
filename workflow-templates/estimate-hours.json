@@ -1,0 +1,8 @@
+{
+	"name": "Estimate Development Hours",
+	"description": "Use gitoxide to estimate development hours from the repository's commit history.",
+	"iconName": "logo",
+	"categories": [
+		"utilities"
+	]
+}
