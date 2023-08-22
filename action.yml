@@ -15,7 +15,7 @@ jobs:
         uses: cargo-bins/cargo-binstall@main
 
       - name: Install gitoxide
-        run: cargo-binstall gitoxide
+        run: yes | cargo-binstall gitoxide
 
       - name: Estimate hours
         run: ein tool estimate-hours
