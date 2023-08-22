@@ -1,0 +1,21 @@
+name: Estimate hours
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Install cargo-binstall
+        uses: cargo-bins/cargo-binstall@main
+
+      - name: Install gitoxide
+        run: cargo-binstall gitoxide
+
+      - name: Estimate hours
+        run: ein tool estimate-hours
