@@ -34,5 +34,8 @@ jobs:
 
       - name: Open pull request
         run: gh pr create >-
+          --head
+          --no-maintainer-edit
+          --assignee ${{ github.actor }}
           --title "(${{ github.run_attempt }}) Estimate potential development hours"
           --body "Estimates the number of hours spent on developing this project based on its commit history."
