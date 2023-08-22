@@ -20,8 +20,14 @@ jobs:
       - name: Estimate hours
         run: echo $(ein tool estimate-hours) > .dev_hours
 
+      - name: Add log file
+        run: |
+          git config user.name "${{ github.actor }}"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+          git add .dev_hours
+
       - name: Commit log file
-        run: "git add .dev_hours && git commit -m 'chore: Estimate development hours'"
+        run: "git commit -m 'chore: Estimate potential development hours'"
 
       - name: Open pull request
         run: gh pr create -Hf
