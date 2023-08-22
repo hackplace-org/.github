@@ -36,6 +36,9 @@ jobs:
       - name: Commit log file
         run: "git commit -m 'chore: Estimate potential development hours'"
 
+      - name: Push commit
+        run: git push
+
       - name: Open pull request
         run: gh pr create >-
           --head "main"
