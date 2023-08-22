@@ -8,7 +8,7 @@
   <a href="https://discord.com/invite/YTZdFWgR6V">
     <img alt="Discord" src="https://img.shields.io/badge/discord-5865f2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/company/hackplace/">
+  <a href="https://www.linkedin.com/company/hackplace-org/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/_hackplace/">
