@@ -33,4 +33,6 @@ jobs:
         run: "git commit -m 'chore: Estimate potential development hours'"
 
       - name: Open pull request
-        run: gh pr create -Hf
+        run: gh pr create >-
+          --title "(${{ github.run_attempt }}) Estimate potential development hours"
+          --body "Estimates the number of hours spent on developing this project based on its commit history."
