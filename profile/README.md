@@ -28,7 +28,7 @@ All of the code used by hack.place() is open-sourced here. Feel free to browse o
 - The code for our workshops:
   - [Intro to Web Development](https://github.com/hackplace-org/weather-app)
   - [Intro to HTML/CSS/JS](https://github.com/hackplace-org/calculator-app)
-  - [Intro to React Native](https://github.com/hackplace-org/image-filter-app)
+  - [Intro to React Native](https://github.com/hackplace-org/music-player)
   - [Intro to Chrome Extensions](https://github.com/hackplace-org/color-palette-generator)
   - [Object-Oriented Python](https://github.com/hackplace-org/discord-bot)
   - [Minecraft Modding](https://github.com/hackplace-org/minecraft-mod)
