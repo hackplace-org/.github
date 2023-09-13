@@ -15,7 +15,7 @@
     <img alt="Instagram" src="https://img.shields.io/badge/instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.twitter.com/_hackplace/">
-    <img alt="Twitter" src="https://img.shields.io/badge/twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img alt="Twitter" src="https://img.shields.io/badge/twitter%3F%20X%3F-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </div>
 
