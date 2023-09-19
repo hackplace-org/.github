@@ -5,7 +5,7 @@
 </picture>
 
 <div align="center">
-  <a href="https://discord.com/invite/YTZdFWgR6V">
+  <a href="https://discord.com/invite/ucAEhh74eW">
     <img alt="Discord" src="https://img.shields.io/badge/discord-5865f2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/company/hackplace-org/">
