@@ -21,20 +21,7 @@
 
 # What's in this organization?
 
-All of the code used by hack.place() is open-sourced here. Feel free to browse our repositories:
-
-- [Our website, hackplace.org](https://github.com/hackplace-org/hackplace.org)
-- [Our presentation slides](https://github.com/hackplace-org/presentations)
-- The code for our workshops:
-  - [Intro to Web Development](https://github.com/hackplace-org/weather-app)
-  - [Intro to HTML/CSS/JS](https://github.com/hackplace-org/calculator-app)
-  - [Intro to React Native](https://github.com/hackplace-org/music-player)
-  - [Chrome Extensions](https://github.com/hackplace-org/color-palettes)
-  - [Object-Oriented Python](https://github.com/hackplace-org/discord-bot)
-  - [Minecraft Modding](https://github.com/hackplace-org/minecraft-mod)
-- The code for our lessons:
-  - [HTMX and APIs](https://github.com/hackplace-org/clicker-api)
-  - [Databases with ORMs](https://github.com/hackplace-org/guestbook)
+All of the code used by hack.place() is open-sourced here. Feel free to browse our repositories below.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hackplace-org/.github/main/hcb-logo-original-light.svg" />
